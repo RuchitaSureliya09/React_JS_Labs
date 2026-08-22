@@ -1,0 +1,15 @@
+jyare lab-14 & 15 run karvi hoi tyare App.jsx ma niche mujab lakhvu
+
+function App() {
+  return (
+    <>
+      
+        <A2/>
+        <A4/>
+        <A5/>
+
+    </>
+  );
+}
+
+aa function change karvu and aa files import kareli hoi tene comment mathi remove kari devi 

@@ -1,0 +1,293 @@
+/* ---------------------------- Common CSS ------------------------------------ */
+.main {
+    background-color: #E7E6F7;
+    border-start-start-radius: 5px;
+    border-start-end-radius: 5px;
+    border-end-end-radius: 5px;
+    border-end-start-radius: 5px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 15px;
+}
+
+.navigation {
+    border-start-start-radius: 5px;
+    border-start-end-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #827081;
+    margin-bottom: 30px;
+}
+
+img {
+    border-radius: 20px;
+}
+
+.footer {
+    border-end-end-radius: 5px;
+    border-end-start-radius: 5px;
+    display: flex;
+    display: inline-block;
+    height: 30px;
+    width: 100%;
+    font-size: large;
+    background-color: #827081;
+}
+
+.f1 {
+    margin-top: 5px;
+    flex-grow: 1;
+    float: left;
+    padding-left: 150px;
+}
+
+.f2 {
+    margin-top: 5px;
+    flex-grow: 1;
+    float: right;
+    padding-right: 150px;
+}
+
+a {
+    text-decoration: none;
+    font-size: large;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #E7E6F7;
+}
+
+a:hover {
+    /* background-color: #E3D0D8; */
+    border-radius: 3px;
+    background-color: black;
+}
+
+::selection {
+    background-color: #d9b0f0;
+}
+
+mark {
+    background-color: #d2b7d1;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.cont , .form{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    z-index: 1;
+    box-shadow: 2px 2px 5px;
+     padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #d5e2fe;
+}
+
+.form {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+strong {
+    background-color:  #d2b7d1;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+
+/* ---------------------------- Info CSS -------------------------------------- */
+
+.link a:visited {
+    color: red;
+}
+
+.table tr:hover {
+    background-color: #f1f6fee1;
+}
+
+img {
+    box-shadow: 0 0 25px;
+}
+
+
+/* ------------------------------- About CSS -------------------------------- */
+
+img:hover {
+  scale: calc(1.03);
+  box-shadow: 0 0 15px;
+}
+
+.i1,.i2,.i3,.i4,.i5,.i6,.i7,.i8,.i9 {
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-delay: 4s;
+  animation-iteration-count: 2;
+}
+
+@keyframes img1 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img2 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img3 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img4 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img5 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img6 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img7 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img8 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes img9 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.i1 {
+  margin-left: 860px;
+  margin-top: -550px;
+  animation-name: img1;
+}
+
+.i2 {
+  margin-left: 630px;
+  animation-name: img2;
+}
+
+.i3 {
+  margin-left: 790px;
+  animation-name: img3;
+}
+
+.i4 {
+  margin-left: 1200px;
+  margin-top: -450px;
+  animation-name: img4;
+}
+
+.i5 {
+  margin-left: 1010px;
+  margin-top: -80px;
+  animation-name: img5;
+}
+
+.i6 {
+  margin-left: 1280px;
+  margin-top: 150px;
+  animation-name: img6;
+}
+
+.i7 {
+  margin-left: 1045px;
+  margin-top: -20px;
+  animation-name: img7;
+}
+
+.i8 {
+  margin-left: 390px;
+  margin-top: -300px;
+  animation-name: img8;
+}
+
+.i9 {
+  margin-left: 570px;
+  margin-top: 30px;
+  animation-name: img9;
+}
+
+
+/* ---------------------------------- Home CSS ----------------------------- */
+
+img , iframe {
+    box-shadow: 0 0 10px;
+}
+
+
+/* ----------------------------- Contact CSS -------------------------------- */
+
+form {
+    background-color:  #E7E6F7;
+}
+
+.emo {
+    margin-top: -21px;
+    padding-left: 420px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #d5e2fe;
+}
+
+input[type="submit"]:hover , input[type="reset"]:hover{
+    scale: calc(1.1);
+    color: black;
+    background-color: #E3D0D8;
+}
+
+input[type="submit"] {
+    margin-right: 20px;
+}
+
+
+/* --------------------------------- Not Found -------------------------------------- */
+
+#not{
+  margin-top: 275px;
+  margin-bottom: 275px;
+}
