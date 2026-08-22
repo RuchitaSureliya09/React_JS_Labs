@@ -62,7 +62,7 @@ function A4() {
       <div className="row g-4">
         {products.map((product, index) => (
           <div className="col-md-6 col-lg-3" key={index}>
-            <div className="card h-100 shadow" style={{"width": "20rem"}}>
+            <div className="card h-100 shadow" style={{ width: "20rem" }}>
               <img
                 src={product.image}
                 className="card-img-top"

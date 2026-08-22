@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 // 2. Hello world webapp using ReactJS. (A)
 
@@ -7,7 +7,7 @@ function A2() {
     <>
       <h1>Hello World</h1>
     </>
-  )
+  );
 }
 
-export default A2
+export default A2;
