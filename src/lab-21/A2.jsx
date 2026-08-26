@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 // 2. Demonstrate useEffect hook in ReactJS (A)
+
 export default function A2() {
   const [count, setCount] = useState(0);
 
@@ -9,9 +10,10 @@ export default function A2() {
       setCount(count + 1);
     }, 1000);
   }, [count]);
+  
   return (
     <>
-      <h1 className="mt-5 ms-5">Count = {count}</h1>
+      <h1 className="m-5">Count = {count}</h1>
     </>
   );
 }

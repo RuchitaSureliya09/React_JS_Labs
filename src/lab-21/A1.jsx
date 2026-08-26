@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 // 1. Demonstrate useState hook in ReactJS. (A)
+
 export default function A1() {
   const [count, setCount] = useState(0);
   const [name, setName] = useState("");

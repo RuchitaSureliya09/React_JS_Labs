@@ -1,4 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+
 // import A1 from "./lab-21/A1";
 // import A2 from "./lab-21/A2";
 
@@ -30,12 +31,10 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import Contact from "./lab-20/Pages/Contact";
 // import NotFound from "./lab-20/Pages/NotFound";
 
-function App() {
+export default function App() {
   return (
     <>
       
     </>
   );
 }
-
-export default App;
