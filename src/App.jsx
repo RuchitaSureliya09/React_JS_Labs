@@ -1,4 +1,6 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import A1 from "./lab-21/A1";
+import A2 from "./lab-21/A2";
 
 // import A2 from "./lab-17/A2";
 // import A3 from "./lab-17/A3";
@@ -31,7 +33,8 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 function App() {
   return (
     <>
-      
+      <A1/>
+      <A2/>
     </>
   );
 }
