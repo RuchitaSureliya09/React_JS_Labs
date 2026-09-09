@@ -1,0 +1,17 @@
+jyare lab-18 run karvi hoi tyare App.jsx ma niche mujab lakhvu
+
+export default function App() {
+  const [name, setName] = useState("");
+  
+  return (
+    <>
+      <A name={name} setName={setName}/>
+    </>
+  );
+}
+
+aa function change karvu and aa files import kareli hoi tene comment mathi remove kari devi
+aa lab mate usestate bhi comment mathi remove karvi
+
+// import { useState } from "react";
+// import A from "./lab-18/A";
