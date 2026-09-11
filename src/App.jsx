@@ -1,7 +1,9 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-import { useState } from "react";
-import A from "./lab-18/que1/A";
+// import AppComponent from "./lab-19/AppComponent";
+
+// import { useState } from "react";
+// import A from "./lab-18/que1/A";
 
 // import A1 from "./lab-21/A1";
 // import A2 from "./lab-21/A2";
@@ -37,7 +39,7 @@ import A from "./lab-18/que1/A";
 export default function App() {
   return (
     <>
-    
+      
     </>
   );
 }
