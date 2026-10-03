@@ -1,0 +1,18 @@
+jyare lab-24 run karvi hoi tyare App.jsx ma niche mujab lakhvu
+
+export default function App() {
+  return (
+    <>
+      <BrowserRouter>
+        <Routes>
+          <Route index path="/" element={<StudentList />} />
+          <Route path="/add" element={<StudentForm />} />
+          <Route path="/edit/:id" element={<StudentForm />} />
+          <Route path="/detail/:id" element={<StudentDetails />} />
+        </Routes>
+      </BrowserRouter>
+    </>
+  );
+}
+
+aa function change karvu and aa files import kareli hoi tene comment mathi remove kari devi 

@@ -1,5 +1,13 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
+// import StudentList from "./lab-24/StudentList";
+// import StudentForm from "./lab-24/StudentForm";
+// import StudentDetails from "./lab-24/StudentDetails";
+
+// import Crud from "./lab-23/Crud";
+
+// import A1 from "./lab-22/A1";
+
 // import AppComponent from "./lab-19/AppComponent";
 
 // import { useState } from "react";
