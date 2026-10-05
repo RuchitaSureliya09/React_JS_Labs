@@ -53,7 +53,7 @@ function A1() {
                                     className="btn btn-warning w-100"
                                     onClick={() => handleClick("DEL")}
                                 >
-                                    DEL
+                                    ⌫
                                 </button>
                             </div>
 
