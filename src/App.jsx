@@ -7,6 +7,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import Crud from "./lab-23/Crud";
 
 // import A1 from "./lab-22/A1";
+// import A2 from "./lab-22/A2";
 
 // import AppComponent from "./lab-19/AppComponent";
 
@@ -43,6 +44,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import Info from "./lab-20/Pages/Info";
 // import Contact from "./lab-20/Pages/Contact";
 // import NotFound from "./lab-20/Pages/NotFound";
+
 
 export default function App() {
   return (

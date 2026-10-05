@@ -4,6 +4,7 @@ export default function App() {
   return (
     <>
       <A1/>
+      <A2/>
     </>
   );
 }
