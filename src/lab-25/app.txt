@@ -1,0 +1,13 @@
+jyare lab-25 run karvi hoi tyare App.jsx ma niche mujab lakhvu
+
+export default function App() {
+  return (
+    <>
+      <UserProvider>
+        <Dashboard />
+      </UserProvider>
+    </>
+  );
+}
+
+aa function change karvu and aa files import kareli hoi tene comment mathi remove kari devi 

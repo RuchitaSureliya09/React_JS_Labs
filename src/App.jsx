@@ -1,5 +1,7 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+// import Dashboard from "./lab-25/Dashboard";
+// import UserProvider from "./lab-25/UserContext";
 
+// import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import StudentList from "./lab-24/StudentList";
 // import StudentForm from "./lab-24/StudentForm";
 // import StudentDetails from "./lab-24/StudentDetails";
@@ -30,6 +32,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import A4 from "./lab-14&15/A4";
 // import A5 from "./lab-14&15/A5";
 
+// import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import "./Convert_React/Style/Home.css"
 // import Layout from "./Convert_React/component/Layout";
 // import Home from "./Convert_React/Pages/Home";
@@ -37,6 +40,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import Info from "./Convert_React/Pages/Info";
 // import Contact from "./Convert_React/Pages/Contact";
 
+// import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import "./lab-20/Style/Home.css";
 // import Layout from "./lab-20/component/Layout";
 // import Home from "./lab-20/Pages/Home";
@@ -44,7 +48,6 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 // import Info from "./lab-20/Pages/Info";
 // import Contact from "./lab-20/Pages/Contact";
 // import NotFound from "./lab-20/Pages/NotFound";
-
 
 export default function App() {
   return (
