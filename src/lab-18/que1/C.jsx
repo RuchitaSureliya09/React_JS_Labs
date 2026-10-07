@@ -1,5 +1,5 @@
 import React from 'react'
-import D from './D'
+import D from '../que1/D'
 
 export default function C(props) {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import B from './B'
+import B from '../que1/B'
 
 // 1. Create a react application with following components.
 // - create a component named "F" which print one state value named "name" from "App" Component.

@@ -12,6 +12,3 @@ export default function App() {
 
 aa function change karvu and aa files import kareli hoi tene comment mathi remove kari devi
 aa lab mate usestate bhi comment mathi remove karvi
-
-// import { useState } from "react";
-// import A from "./lab-18/A";

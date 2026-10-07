@@ -1,5 +1,5 @@
 import React from 'react'
-import F from './F'
+import F from '../que1/F'
 
 export default function E(props) {
   return (

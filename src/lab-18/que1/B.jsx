@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import C from './C';
+import C from '../que1/C';
 
 export default function B(props) {
     const [txt, setTxt] = useState("");
