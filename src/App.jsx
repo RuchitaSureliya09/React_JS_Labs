@@ -14,6 +14,9 @@
 // import AppComponent from "./lab-19/AppComponent";
 
 // import { useState } from "react";
+// import A from "./lab-18/que2/A";
+
+// import { useState } from "react";
 // import A from "./lab-18/que1/A";
 
 // import A1 from "./lab-21/A1";
